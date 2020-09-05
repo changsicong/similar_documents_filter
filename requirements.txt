@@ -1,0 +1,8 @@
+Packages needed:
+sys
+os
+string
+numpy
+sympy
+time
+matplotlib.pyplot

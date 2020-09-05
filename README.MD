@@ -1,0 +1,1 @@
+Run minhash.py, and the figs in 6.1 and 6.3 in report will be saved to root dir.
